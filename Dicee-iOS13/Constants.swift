@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+let kDiceOne = "DiceOne"
+let kDiceTwo = "DiceTwo"
+let kDiceThree = "DiceThree"
+let kDiceFour = "DiceFour"
+let kDiceFive = "DiceFive"
+let kDiceSix = "DiceSix"
